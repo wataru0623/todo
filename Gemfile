@@ -23,6 +23,10 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'haml-rails'
+gem 'pry-byebug'
+gem 'paperclip'
+gem 'split'
+gem 'annotate'
 
 
 

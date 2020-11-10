@@ -1,0 +1,41 @@
+.form{
+  &Label{
+    margin-top: 33px !important;
+    display: block;
+    line-height: 25px;
+  }
+  &Input {
+    margin-top: 4px;
+    width: 362px;
+    height: 40px;
+    background: #F4F4F4;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: block;
+    padding-left: 10px;
+  }
+}
+
+.submitBtn{
+  margin-top: 514px;
+  width: 362px;
+  height: 40px;
+  color: #fff;
+  background: #F8BD1C;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 25px;
+  border: 1px solid #F8BD1C;
+}
+
+.signupBtn{
+  margin-top: 424px;
+  width: 362px;
+  height: 40px;
+  color: #fff;
+  background: #F8BD1C;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 25px;
+  border: 1px solid #F8BD1C;
+}
